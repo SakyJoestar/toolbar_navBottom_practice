@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/btn1"
+        android:icon="@drawable/credit_card"
+        android:title="Mis tarjetas"/>
+
+    <item android:id="@+id/btn2"
+        android:icon="@drawable/validations"
+        android:title="Mis validaciones" />
+
+    <item android:id="@+id/btn3"
+        android:icon="@drawable/lecutures"
+        android:title="Mis lecturas" />
+
+    <item android:id="@+id/btn4"
+        android:icon="@drawable/news"
+        android:title="Mis noticias" />
+z
+    </menu>
